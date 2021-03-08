@@ -2,7 +2,7 @@
 title: "Robust re-identification of manta rays from natural markings by learning pose invariant embeddings"
 collection: publications
 permalink: /publication/2019-manta-ray-reid
-excerpt: 'Robust re-identification of manta rays from natural markings by learning pose invariant embeddings.'
+excerpt: 
 date: 2019-01-01
 venue: 'arXiv preprint arXiv:1902.10847'
 paperurl: 'https://arxiv.org/pdf/1902.10847.pdf'

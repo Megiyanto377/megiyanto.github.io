@@ -1,6 +1,6 @@
 ---
 title: "Re-identification network"
-excerpt: "Re-identification of wild animals based on natural markings.<br/><img src='/images/portfolio-reid-manta.jpg'>"
+excerpt: "Re-identification of wild animals based on natural markings.<br/><img src='/images/portfolio/reid/portfolio-reid-manta.jpg'>"
 collection: portfolio
 ---
 
@@ -16,21 +16,23 @@ Paper
 
 # Examples of detected orientation
 
-<span style="color:green">A green box</span> - axis-aligned detection rectangle provided as input.
+First image in each row is a query image. The next five images are the top-5 retrieved mathces from the test set.
 
-<span style="color:red">A red box</span> with a yellow dashed side - detected oriented object-aligned rectangle.
+<span style="color:green">A green border</span> - correct match, <span style="color:red">a red border</span> border - incorrect match.
 
 Whale Sharks:
 
-![Example of whale sharks](/images/portfolio-reid-whale-shark.png)
+![Example of whale sharks](/images/portfolio/reid/portfolio-reid-whale-shark-example-1.png)
+![Example of whale sharks](/images/portfolio/reid/portfolio-reid-whale-shark-example-2.png)
+![Example of whale sharks](/images/portfolio/reid/portfolio-reid-whale-shark-example-3.png)
+![Example of whale sharks](/images/portfolio/reid/portfolio-reid-whale-shark-example-4.png)
 Image credit: [WildMe/WildBook](https://www.wildme.org)
 
 Manta rays:
 
-![Example of manta rays](/images/portfolio-reid-manta-example-1.png)
-![Example of manta rays](/images/portfolio-reid-manta-example-2.png)
-![Example of manta rays](/images/portfolio-reid-manta-example-3.png)
-![Example of manta rays](/images/portfolio-reid-manta-example-4.png)
-![Example of manta rays](/images/portfolio-reid-manta-example-5.png)
+![Example of manta rays](/images/portfolio/reid/portfolio-reid-manta-example-2.png)
+![Example of manta rays](/images/portfolio/reid/portfolio-reid-manta-example-3.png)
+![Example of manta rays](/images/portfolio/reid/portfolio-reid-manta-example-4.png)
+![Example of manta rays](/images/portfolio/reid/portfolio-reid-manta-example-5.png)
 
 Image credit: Amelia Armstrong and Asia Armstrong

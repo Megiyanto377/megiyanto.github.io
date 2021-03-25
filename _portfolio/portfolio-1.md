@@ -24,11 +24,19 @@ The method is generic and not species specific. The same model architecture and 
 
 <span style="color:red">A red box</span> with <span style="color:yellow"> a yellow</span> dashed side - detected oriented object-aligned rectangle.
 
+Spotted dolphins:
+
 ![Example of spotted dolphing](/images/portfolio-wbia-orientation-dolphins.jpg)
+
+Sea turtle heads:
 
 ![Example of oriented turtles](/images/portfolio-wbia-orientation-turtles.jpg)
 
+Manta rays:
+
 ![Example of manta rays](/images/portfolio-wbia-orientation-mantas.jpg)
+
+Right whales:
 
 ![Example of right whales](/images/portfolio-wbia-orientation-right-whales.jpg)
 

@@ -1,6 +1,6 @@
 ---
 title: "Orientation network"
-excerpt: "Detect an oriented bounding box aligned with an animal's body.<br/><img src='/images/portfolio_wbia_orientation.jpg'>"
+excerpt: "Detect an oriented bounding box aligned with an animal's body.<br/><img src='/images/portfolio/orientation/portfolio_wbia_orientation.jpg'>"
 collection: portfolio
 ---
 
@@ -26,19 +26,19 @@ The method is generic and not species specific. The same model architecture and 
 
 Spotted dolphins:
 
-![Example of spotted dolphing](/images/portfolio-wbia-orientation-dolphins.jpg)
+![Example of spotted dolphing](/images/portfolio/orientation/portfolio-wbia-orientation-dolphins.jpg)
 
 Sea turtle heads:
 
-![Example of oriented turtles](/images/portfolio-wbia-orientation-turtles.jpg)
+![Example of oriented turtles](/images/portfolio/orientation/portfolio-wbia-orientation-turtles.jpg)
 
 Manta rays:
 
-![Example of manta rays](/images/portfolio-wbia-orientation-mantas.jpg)
+![Example of manta rays](/images/portfolio/orientation/portfolio-wbia-orientation-mantas.jpg)
 
 Right whales:
 
-![Example of right whales](/images/portfolio-wbia-orientation-right-whales.jpg)
+![Example of right whales](/images/portfolio/orientation/portfolio-wbia-orientation-right-whales.jpg)
 
 
 Image credit: [WildMe/WildBook](https://www.wildme.org)

@@ -4,6 +4,8 @@ excerpt: "Detect an oriented bounding box aligned with an animal's body.<br/><im
 collection: portfolio
 ---
 
+# Overview
+
 The aim of the project is to detect object-aligned bounding box based on axis-aligned bounding box. 
 Axis-aligned bounding box is a common output of object detection methods.
 Due to large variations in poses of animals in images especially for underwater images, axis-aligned box is not sufficient for furhter analysis of the detected animal, e.g. identification/matching of specific individual.
@@ -16,9 +18,11 @@ The source code, implementation details and results are available at [github](ht
 The method is generic and not species specific. The same model architecture and training schedule are applied to seven species including turtles, manta rays, whale sharks, right whales and sea horses.
 
 
-Examples of detected orientation.
-Green box - axis-aligned detection rectangle provided as input.
-Read box with yellow dashed line - detected oriented object-aligned rectangle.
+# Examples of detected orientation
+
+<span style="color:green">A green box</span> - axis-aligned detection rectangle provided as input.
+
+<span style="color:red">A red box</span> with <span style="color:yellow"> a yellow</span> dashed side - detected oriented object-aligned rectangle.
 
 ![Example of spotted dolphing](/images/portfolio-wbia-orientation-dolphins.jpg)
 

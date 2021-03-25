@@ -10,11 +10,14 @@ This is the implementation for re-identification system described in the paper [
 
 The convolutional neural network (CNN) is trained to learn embeddings for images of natural markings, where the learned distance between embedding points corresponds to similarity between patterns. The network is optimized using the triplet loss function and the online semi-hard triplet mining strategy. The proposed re-identification method is generic and not species specific. We evaluate the proposed system on image databases of manta ray belly patterns, humpback whale flukes and whale sharks.
 
+The source code in PyTorch and integration with WildMe/WildBook is available at [wbia-plugin-reid](https://github.com/olgamoskvyak/wbia-plugin-pie-v2)
+* [Paper](https://arxiv.org/pdf/1902.10847.pdf)
+
 
 # Deliverables
 
 * Source code in Keras/Tensorflow [reid-manta](https://github.com/olgamoskvyak/reid-manta)
-* Updated source code in PyTorch and integration with WildMe/WildBook in [wbia-plugin-reid](https://github.com/olgamoskvyak/wbia-plugin-pie-v2)
+* Updated source code in PyTorch and integration with WildMe/WildBook at [wbia-plugin-reid](https://github.com/olgamoskvyak/wbia-plugin-pie-v2)
 * [Paper](https://arxiv.org/pdf/1902.10847.pdf)
 
 

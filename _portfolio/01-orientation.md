@@ -14,10 +14,11 @@ The project trains a convolutional neural network to learn oriented rectangles t
 
 The method is generic and not species specific. The same model architecture and training schedule are applied to seven species including turtles, manta rays, whale sharks, right whales and sea horses.
 
+The source code, implementation details and results are available at [github](https://github.com/WildMeOrg/wbia-plugin-orientation).
+
 # Deliverables
 
 * The project is completed for [WildMe/WildBook](https://www.wildme.org) based on their data.
-The source code, implementation details and results are available at [github](https://github.com/WildMeOrg/wbia-plugin-orientation).
 
 # Examples of detected orientation
 

@@ -22,7 +22,7 @@ The method is generic and not species specific. The same model architecture and 
 
 <span style="color:green">A green box</span> - axis-aligned detection rectangle provided as input.
 
-<span style="color:red">A red box</span> with <span style="color:yellow"> a yellow</span> dashed side - detected oriented object-aligned rectangle.
+<span style="color:red">A red box</span> with a yellow dashed side - detected oriented object-aligned rectangle.
 
 Spotted dolphins:
 

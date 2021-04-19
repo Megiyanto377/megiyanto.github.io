@@ -7,6 +7,7 @@ date: 2021-05-01
 venue: 'International Conference on Learning Representations (ICLR)'
 teaser: 'teaser_paper5.png'
 paperurl: '/files/paper5.pdf'
+github: 'https://github.com/olgamoskvyak/tf_equivariance_loss'
 link: 'https://openreview.net/pdf?id=yFJ67zTeI2'
 citation: 'Olga Moskvyak, Frederic Maire, Feras Dayoub & Mahsa Baktashmotlagh (2021). &quot;Semi-supervised keypoint localization.&quot; <i>In Proc. International Conference on Learning Representations (ICLR)</i>.'
 ---

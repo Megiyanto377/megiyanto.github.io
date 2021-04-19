@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olga Moskvyak / PhD Student"
+title                    : "Olga Moskvyak / Machine Learning Engineer"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Olga Moskvyak"
 description              : &description "personal description"
 url                      : https://olgamoskvyak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olga Moskvyak"
   avatar           : "profile.jpg"
-  bio              : "Computer Science PhD Student"
+  bio              : "Machine Learning Engineer, Computer Science PhD Researcher"
   location         : "Brisbane, Australia"
   employer         :
   pubmed           : 

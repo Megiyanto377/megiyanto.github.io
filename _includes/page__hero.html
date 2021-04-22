@@ -35,6 +35,9 @@
         {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
+        {% if page.pdfurl %}
+          <a href="{{ page.pdfurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        {% endif %}
       </h1>
       {% if page.excerpt %}
         <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>

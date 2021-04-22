@@ -12,6 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if post.pdfurl %}
+  <a href="{{ post.pdfurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}

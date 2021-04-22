@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: "/files/Resume_20210322.pdf"
 redirect_from:
   - /resume
 ---

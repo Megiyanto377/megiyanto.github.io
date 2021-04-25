@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV <a href="/files/Resume_20210322.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>"
 permalink: /cv/
 author_profile: true
 pdfurl: "/files/Resume_20210322.pdf"

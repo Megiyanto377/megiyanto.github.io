@@ -13,7 +13,7 @@ Summary     <span style="float:right"><a href="/files/Resume_20210426.pdf"><i cl
 ======
 
 I am a Computer Science PhD Researcher at QUT Centre for Robotics, Australia. My research is in the field of computer vision with the focus on deep learning with limited annotated data.
-I am passionite applying machine learning for real-life applications.
+I am passionate applying machine learning for real-life applications.
 My research has been used to build and deploy deep neural networks for applications in wildlife conservation. 
 
 Work experience

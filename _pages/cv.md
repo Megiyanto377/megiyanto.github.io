@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Summary     <a href="/files/Resume_20210322.pdf">Open PDF</a>
+Summary     <a href="/files/Resume_20210322.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 ======
 
 I am a Computer Science PhD Researcher at QUT Centre for Robotics, Australia. My research is in the field of computer vision with the focus on deep learning with limited annotated data.

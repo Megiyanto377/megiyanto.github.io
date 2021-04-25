@@ -24,10 +24,10 @@ Work experience
   WildMe/Wildbook, Portland, Oregon, USA
 
   Achievements:
-    * Implemented and delivered AI models for wildlife detection and identification
-    * Integrated the solution as a plugin to existing infrastracture
+    * Implemented and delivered AI models for wildlife detection and identification.
+    * Integrated the solution as a plugin to existing infrastructure.
 
-  Technologies: PyTorch, OpenCV, open source GitHub
+  Technologies: PyTorch, OpenCV, open-source GitHub
 
   Source code: [orientation network](https://github.com/WildMeOrg/wbia-plugin-orientation), [re-identification network](https://github.com/olgamoskvyak/wbia-plugin-pie-v2)
 
@@ -47,7 +47,7 @@ Work experience
   Central Queensland University, Brisbane, Australia
 
   Achievements:
-    * implemented the multi-objective optimisation algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet.
+    * implemented the multi-objective optimization algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet.
     * delivered a prototype of a smart dietary system that generates daily meals schedules based on dietary requirements.
 
 
@@ -57,8 +57,8 @@ Work experience
   Several consulting companies based in Moscow, Russia
   
   Achievements:
-    * analysed and designed business processes in logistics for clients in energy and gas mining industries,
-    * customised SAP system to tailor for business requirements, 
+    * analyzed and designed business processes in logistics for clients in energy and gas mining industries,
+    * customized SAP system to tailor for business requirements, 
     * prepared project documentation,
     * liaised with stakeholders and key end-users.
 

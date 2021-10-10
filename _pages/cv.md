@@ -9,27 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Summary     <span style="float:right; font-size: 16px"><a href="/files/Resume_Olga_Moskvyak.pdf">Download PDF<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></span>
+Summary
 ======
 
-I am a Machine Learning Engineer specializing in Computer Vision.  
+I am a Computer Science PhD Researcher at QUT Centre for Robotics, Australia.
+I am expected to finish by the end of 2021. 
+Currently I am interning as an Applied Scientist at Amazon.
 
-I conduct research as a Computer Science PhD Candidate at QUT Centre for Robotics, Australia. My research is in the field of computer vision with the focus on deep learning with limited annotated data.  
-
-My passion is creating real business applications powered by machine learning. I have experience in building and deploying deep neural networks for applications in wildlife conservation.   
+My research is in the field of computer vision with the focus on deep learning with limited annotated data.
+I am passionite applying machine learning for real-life applications.
+My research has been used to build and deploy deep neural networks for applications in wildlife conservation.
 
 Work experience
 ======
 
-* Sep 2020 – present: ML Engineer, contractor (remote)
+* Jul 2021 – Present: Applied Scientist Intern
+
+  Amazon, Australia
+
+  Achievements:
+    * applied machine learning, computer vision, data mining and statistical techniques
+    to improve customer experience
+    * developing, prototyping and scaling machine learning models
+
+Technologies: PyTorch, AWS
+
+
+* Sep 2020 – Jun 2021: ML Engineer, contractor
 
   WildMe/Wildbook, Portland, Oregon, USA
 
   Achievements:
-    * implemented and delivered AI models for wildlife detection and identification,
-    * integrated the solution as a plugin to existing infrastructure.
+    * implemented and delivered AI models for wildlife detection and identification
+    * integrated the solution as a plugin to existing infrastracture
 
-  Technologies: Python, PyTorch, OpenCV, open-source GitHub
+  Technologies: PyTorch, OpenCV, open source GitHub
 
   Source code: [orientation network](https://github.com/WildMeOrg/wbia-plugin-orientation), [re-identification network](https://github.com/olgamoskvyak/wbia-plugin-pie-v2)
 
@@ -39,9 +53,9 @@ Work experience
   Queensland University of Technology, Brisbane, Australia
 
   Duties included:
-    * prepared course materials and assignments,
-    * presented lectures and tutorials on building AI models using Tensorflow,
-    * marking assignments and exams.
+    * prepared course materials and assignments
+    * presented lectures and tutorials on building AI models
+    * marking assignments and exams
 
 
 * Oct 2016 – Sep 2017: Research Assistant, part time
@@ -49,7 +63,7 @@ Work experience
   Central Queensland University, Brisbane, Australia
 
   Achievements:
-    * implemented the multi-objective optimization algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet,
+    * implemented the multi-objective optimisation algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet.
     * delivered a prototype of a smart dietary system that generates daily meals schedules based on dietary requirements.
 
 
@@ -57,10 +71,10 @@ Work experience
 * Jun 2009 - May 2014: SAP ERP Consultant, full time
 
   Several consulting companies based in Moscow, Russia
-  
+
   Achievements:
-    * analyzed and designed business processes in logistics for clients in energy and gas mining industries,
-    * customized SAP system to tailor for business requirements, 
+    * analysed and designed business processes in logistics for clients in energy and gas mining industries,
+    * customised SAP system to tailor for business requirements,
     * prepared project documentation,
     * liaised with stakeholders and key end-users.
 
@@ -80,7 +94,7 @@ Skills
   * writing research papers and technical reports.
 
 * Technical skills:
-  * proficiency in Python including PyTorch, Keras, OpenCV, SciPy, Numpy, Pandas;
+  * proficiency in Python including Pytorch, Keras, OpenCV, SciPy, Numpy, Pandas;
   * deployment of AI models and web applications (AWS, MS Azure, Docker).
   * practical experience in building, deploying and testing ML models in a product development context using software engineering best practices;
 

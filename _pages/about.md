@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer specializing in Computer Vision.  
+I am a Machine Learning Engineer specializing in Computer Vision. Currently I am interning as an Applied Scientist at Amazon. 
 
-I conduct research as a Computer Science PhD Candidate at [QUT Centre for Robotics](https://research.qut.edu.au/qcr/), Australia. My research is in the field of computer vision with the focus on deep learning with limited annotated data. I have presented [my research](https://olgamoskvyak.github.io/publications/) at major computer vision conferences.
+I conduct research as a Computer Science PhD Candidate at [QUT Centre for Robotics](https://research.qut.edu.au/qcr/), Australia. I am expected to finish by the end of the 2021. My research is in the field of computer vision with the focus on deep learning with limited annotated data. I have presented [my research](https://olgamoskvyak.github.io/publications/) at major computer vision conferences.
 
 My passion is creating real business applications powered by machine learning. I have experience in [building and deploying](https://olgamoskvyak.github.io/portfolio/02-reid/) deep neural networks for applications in wildlife conservation.  
 

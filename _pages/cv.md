@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Summary
+Summary    <span style="float:right; font-size: 16px"><a href="/files/Resume_Olga_Moskvyak.pdf">Download PDF<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></span>
 ======
 
 I am a Computer Science PhD Researcher at QUT Centre for Robotics, Australia.
@@ -32,7 +32,7 @@ Work experience
     to improve customer experience
     * developing, prototyping and scaling machine learning models
 
-Technologies: PyTorch, AWS
+  Technologies: PyTorch, AWS
 
 
 * Sep 2020 – Jun 2021: ML Engineer, contractor

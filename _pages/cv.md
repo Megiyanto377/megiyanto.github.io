@@ -29,8 +29,8 @@ Work experience
 
   Achievements:
     * applied machine learning, computer vision, data mining and statistical techniques
-    to improve customer experience
-    * developing, prototyping and scaling machine learning models
+    to improve customer experience,
+    * developed, prototyped and scaled machine learning models.
 
   Technologies: PyTorch, AWS
 
@@ -40,8 +40,8 @@ Work experience
   WildMe/Wildbook, Portland, Oregon, USA
 
   Achievements:
-    * implemented and delivered AI models for wildlife detection and identification
-    * integrated the solution as a plugin to existing infrastracture
+    * implemented and delivered AI models for wildlife detection and identification,
+    * integrated the solution as a plugin to existing infrastructure.
 
   Technologies: PyTorch, OpenCV, open source GitHub
 
@@ -52,10 +52,10 @@ Work experience
 
   Queensland University of Technology, Brisbane, Australia
 
-  Duties included:
-    * prepared course materials and assignments
-    * presented lectures and tutorials on building AI models
-    * marking assignments and exams
+  Achievements:
+    * prepared course materials and assignments,
+    * presented lectures and tutorials on building AI models,
+    * marked assignments and exams.
 
 
 * Oct 2016 – Sep 2017: Research Assistant, part time
@@ -63,7 +63,7 @@ Work experience
   Central Queensland University, Brisbane, Australia
 
   Achievements:
-    * implemented the multi-objective optimisation algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet.
+    * implemented the multi-objective optimisation algorithm and the genetic algorithm in Java for the problem of generating a nutritionally balanced diet,
     * delivered a prototype of a smart dietary system that generates daily meals schedules based on dietary requirements.
 
 

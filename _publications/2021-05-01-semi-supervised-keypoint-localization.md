@@ -9,6 +9,7 @@ teaser: 'teaser_paper5.png'
 paperurl: '/files/paper5.pdf'
 github: 'https://github.com/olgamoskvyak/tf_equivariance_loss'
 link: 'https://openreview.net/pdf?id=yFJ67zTeI2'
+video: 'https://crossminds.ai/video/semi-supervised-keypoint-localization-60c3d6a66af07cfaf7326430/'
 citation: 'Olga Moskvyak, Frederic Maire, Feras Dayoub & Mahsa Baktashmotlagh (2021). &quot;Semi-supervised keypoint localization.&quot; <i>In Proc. International Conference on Learning Representations (ICLR)</i>.'
 ---
 

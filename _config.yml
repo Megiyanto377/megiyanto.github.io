@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olga Moskvyak / Machine Learning Engineer"
+title                    : "Olga Moskvyak / Machine Learning Scientist"
 title_separator          : "-"
 name                     : &name "Olga Moskvyak"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olga Moskvyak"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Engineer, Computer Science PhD Researcher"
+  bio              : "Machine Learning Scientist, PhD in Computer Science"
   location         : "Brisbane, Australia"
   employer         :
   pubmed           : 

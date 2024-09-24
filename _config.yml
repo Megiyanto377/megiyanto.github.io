@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Olga Moskvyak / Machine Learning Scientist"
+title                    : "GMR"
 title_separator          : "-"
-name                     : &name "Olga Moskvyak"
+name                     : &name "Griffani Megiyanto Rahmatullah"
 description              : &description "personal description"
-url                      : https://olgamoskvyak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://megiyanto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "olgamoskvyak/olgamoskvyak.github.io"
+repository               : "Megiyanto377/megiyanto.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Olga Moskvyak"
+  name             : "Griffani Megiyanto Rahmatullah"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Scientist, PhD in Computer Science"
-  location         : "Brisbane, Australia"
+  bio              : "Lecturer and Researcher, Politeknik Negeri Bandung"
+  location         : "Bandung, Indonesia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.au/citations?user=4ScUifAAAAAJ"
-  email            : "olgamoskvyak@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=1DKCWkMAAAAJ&hl"
+  email            : "griffani.megiyanto@polban.ac.id"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "olgamoskvyak"
+  github           : "Megiyanto377"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "olga-moskvyak-26003235/"
-  orcid            : "https://orcid.org/0000-0001-8821-8319"
+  linkedin         : "https://www.linkedin.com/in/griffani-megiyanto-rahmatullah-258224145/"
+  orcid            : "https://orcid.org/0000-0002-2845-8561"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
